@@ -19,7 +19,7 @@
 <br/>
 
 </div>
-
+.................
 ### 👨‍💻 Professional Summary
 
 I am a dedicated **Backend Software Engineer** with a passion for building scalable and secure server-side applications. I distinguish myself by being a **highly adaptable fast learner**; I thrive on mastering new technologies and applying them to solve real-world problems.
